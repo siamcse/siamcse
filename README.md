@@ -11,7 +11,7 @@
 ## :eyes: Current overview
 
 
-<a href="https://app.daily.dev/siamcse01"><img align="right" src="https://api.daily.dev/devcards/8c5fdcbec5a345238dbe47da7f8100fb.png?r=qs9" width="200" alt="Abu Siam's Dev Card"/></a>
+<a href="https://app.daily.dev/siamcse01"><img align="right" src="https://github.com/siamcse/siamcse/blob/main/devcard.svg" width="200" alt="Abu Siam's Dev Card"/></a>
 
 
 ### 🔭 I’m looking - a front-end development job. 
